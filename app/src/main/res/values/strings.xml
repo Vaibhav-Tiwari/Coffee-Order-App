@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+
+    <!-- Header text for the list of Toppings.-->
+    <string name="toppings" translatable="false">Toppings</string>
+
+    <string name="thank_you" translatable="false">Thank You</string>
+    <string name="Rupee" translatable="false">Rs</string>
+    <string name="total" translatable="false">Total = </string>
+    <string name="your_name" translatable="false">Name</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="order" translatable="false">Order</string>
+
+    <string name="order_summary_name" translatable="false">Name : <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="quantity_of_coffee" translatable="false">Quantity: <xliff:g id="quantity" example="10">%d</xliff:g></string>
+</resources>
